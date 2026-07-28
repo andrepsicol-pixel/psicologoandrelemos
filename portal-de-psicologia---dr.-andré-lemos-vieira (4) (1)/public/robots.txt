@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /cms
+Disallow: /admin
+Disallow: /api/
+
+Sitemap: https://www.psicologoandrelemos.com.br/sitemap.xml
+Host: https://www.psicologoandrelemos.com.br

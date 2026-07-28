@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Psicologia - Dr. André Lemos Vieira",
+  "description": "Portal Clínico de Psicologia e Saúde Mental do Dr. André Lemos Vieira (CRP 01/14042). Psicoterapia TCC e Gestalt em Brasília (Asa Sul) e Online, testes psicológicos gratuitos e artigos baseados em evidências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
